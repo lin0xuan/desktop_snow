@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+frames/
+*.png
+*.jpg
+*.jpeg
+cabin.bmp
+snowdesk/_preview.py
+snowdesk/_ceiling_check.py
